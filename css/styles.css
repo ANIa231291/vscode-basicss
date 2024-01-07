@@ -10,9 +10,23 @@ ul {
 .span-italik {
   font-style: italic;
 }
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
 .header-logo {
   color: #111;
-  font-family: 'Montserrat', sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.11;
@@ -21,7 +35,6 @@ ul {
 
 .header-menu-link {
   color: #111;
-  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 1.14;
@@ -37,6 +50,7 @@ ul {
 }
 .header-soc-link {
 } */
+/*-------------------------SECTION 1 ----------------------------------*/
 
 .main {
 }
@@ -45,7 +59,6 @@ ul {
 }
 .hero-title {
   color: #fff;
-  font-family: 'Montserrat', sans-serif;
   font-size: 28px;
   font-weight: 500;
   line-height: 1.21;
@@ -59,7 +72,6 @@ ul {
 }
 .button-how-btn {
   color: #fff;
-  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   font-weight: 600;
 }
@@ -70,6 +82,8 @@ ul {
   line-height: 1.29;
   letter-spacing: -0.03em;
 }
+
+/*-----------------------------SECTION  2 ----------------------------------*/
 .section-first {
   background: #1e1823;
 }
@@ -88,4 +102,128 @@ ul {
   font-weight: 400;
   line-height: 1.29; /* 128.571% */
   letter-spacing: -0.02em;
+}
+
+/*-------------------------------SECTION  3 ----------------------------------*/
+
+.chocolate-section {
+}
+.hero-chocolate-section {
+  color: #111;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1.16; /* 116.667% */
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+}
+.chocolate-text-section {
+}
+.chocolate-list-section {
+}
+.chocolate-item-section {
+}
+.img-chocolate-section {
+}
+.hero-chocolate-title {
+}
+
+/*-------------------------------SECTION 4 --------------------------------*/
+
+.section-made-chocolate {
+}
+.made-hero {
+}
+.made-img-chocolate {
+}
+.made-hero-try {
+}
+.made-chocolate-list {
+}
+.made-chocolate-item {
+}
+.made-text-chocolate {
+}
+
+/*------------------------------SECTION 5 --------------------------------*/
+
+.section-product {
+}
+.product-hero {
+}
+.product-list {
+}
+.product-item {
+}
+.img-product {
+}
+.product-hero-item {
+}
+.product-text-item {
+}
+.button-product-item {
+}
+/*------------------------------SECTION 6 -------------------------------*/
+
+.section-sellers {
+}
+.hero-sellers {
+}
+.sellers-list {
+}
+.sellers-item {
+}
+.sellers-img-item {
+}
+.hero-sellers-item {
+}
+
+/*------------------------------SECTION 7 ------------------------------*/
+
+.section-chocolate-lovers {
+}
+.hero-chocolate-lovers {
+}
+.chocolate-lovers-list {
+}
+.chocolate-lovers-item {
+}
+.chocolate-lovers-img {
+}
+.subtitle-lovers {
+}
+.chocolate-lovers-text {
+}
+.button-chocolate-lovers {
+}
+
+/*-------------------------------- FOOTER ----------------------------------*/
+
+.footer-chocolate {
+}
+.footer-subtitle {
+}
+.subtitle-text {
+}
+.footer-list {
+}
+.footer-item {
+}
+.footer-logo {
+}
+.footer-paragraf {
+}
+.footer-address {
+}
+.footer-address-list {
+}
+.footer-item-contact {
+}
+.footer-logo-address {
+}
+.footer-navi {
+}
+.footer-navi-list {
+}
+.footer-navi-item {
 }
