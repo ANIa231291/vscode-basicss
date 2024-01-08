@@ -118,6 +118,12 @@ ul {
   text-transform: uppercase;
 }
 .chocolate-text-section {
+  color: #111;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.28; /* 128.571% */
+  letter-spacing: -0.02em;
 }
 .chocolate-list-section {
 }
@@ -126,6 +132,20 @@ ul {
 .img-chocolate-section {
 }
 .hero-chocolate-title {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.29; /* 128.571% */
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+}
+
+.chocolate-color-dark {
+  color: #111;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.28; /* 128.571% */
+  letter-spacing: -0.02em;
 }
 
 /*-------------------------------SECTION 4 --------------------------------*/
@@ -133,16 +153,32 @@ ul {
 .section-made-chocolate {
 }
 .made-hero {
+  color: #111;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1.16; /* 116.667% */
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
 }
 .made-img-chocolate {
 }
 .made-hero-try {
+  color: #111;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.33; /* 133.333% */
 }
 .made-chocolate-list {
 }
 .made-chocolate-item {
 }
 .made-text-chocolate {
+  color: #111;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.28; /* 128.571% */
+  letter-spacing: -0.02em;
 }
 
 /*------------------------------SECTION 5 --------------------------------*/
@@ -150,6 +186,13 @@ ul {
 .section-product {
 }
 .product-hero {
+  color: #111;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1.16; /* 116.667% */
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
 }
 .product-list {
 }
@@ -158,16 +201,36 @@ ul {
 .img-product {
 }
 .product-hero-item {
+  color: #111;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.33; /* 133.333% */
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
 }
 .product-text-item {
+  color: rgba(17, 17, 17, 0.7);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 1.16; /* 116.667% */
+  letter-spacing: -0.02em;
 }
 .button-product-item {
+  color: #111;
+  font-size: 14px;
+  font-weight: 600;
 }
 /*------------------------------SECTION 6 -------------------------------*/
 
 .section-sellers {
 }
 .hero-sellers {
+  color: #111;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1.16;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
 }
 .sellers-list {
 }
@@ -177,12 +240,26 @@ ul {
 }
 .hero-sellers-item {
 }
+.hero-sellers-hero {
+  color: #111;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.33; /* 133.333% */
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+}
 
 /*------------------------------SECTION 7 ------------------------------*/
 
 .section-chocolate-lovers {
 }
 .hero-chocolate-lovers {
+  color: #111;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1.16;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
 }
 .chocolate-lovers-list {
 }
@@ -191,19 +268,44 @@ ul {
 .chocolate-lovers-img {
 }
 .subtitle-lovers {
+  color: #111;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.33; /* 133.333% */
 }
 .chocolate-lovers-text {
+  color: rgba(17, 17, 17, 0.7);
+  text-align: center;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.28; /* 128.571% */
+  letter-spacing: -0.02em;
 }
 .button-chocolate-lovers {
+  color: #111;
+  font-size: 18px;
+  font-weight: 600;
 }
 
 /*-------------------------------- FOOTER ----------------------------------*/
 
 .footer-chocolate {
+  background: #1e1823;
 }
 .footer-subtitle {
+  color: #fff;
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
 }
 .subtitle-text {
+  color: #fff;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.28; /* 128.571% */
 }
 .footer-list {
 }
@@ -212,6 +314,11 @@ ul {
 .footer-logo {
 }
 .footer-paragraf {
+  color: #fff;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.28; /* 128.571% */
 }
 .footer-address {
 }
@@ -220,10 +327,28 @@ ul {
 .footer-item-contact {
 }
 .footer-logo-address {
+  color: #fff;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.28; /* 128.571% */
+  letter-spacing: -0.02em;
 }
 .footer-navi {
 }
 .footer-navi-list {
+  list-style-type: none;
+  text-decoration: none;
 }
 .footer-navi-item {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.14; /* 114.286% */
+  letter-spacing: -0.02em;
+}
+.button-footer {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
 }
